@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Mar 2025 19:17:47 at https://seeking-access-myprivatepictures.netlify.app +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://seeking-access-myprivatepictures.netlify.app -O1 "C:\My Web Sites\seeking" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:20:02	Warning: 	Retry after error -4 (Connect Error) at link https://tr.snapchat.com/config/com/3542a5eb-d263-415e-864d-0b151b94d5de.js?v=3.36.4-2502241803 (from https://seeking-access-myprivatepictures.netlify.app/)
+19:20:42	Error: 	"Not Found" (404) at link https://seeking-access-myprivatepictures.netlify.app/manifest.json (from https://seeking-access-myprivatepictures.netlify.app/)
+19:20:42	Error: 	"Not Found" (404) at link https://seeking-access-myprivatepictures.netlify.app/0.b2cb980c81224a9bfbc5.css?b2cb980c81224a9bfbc5 (from https://seeking-access-myprivatepictures.netlify.app/)
+19:20:42	Error: 	"Not Found" (404) at link https://seeking-access-myprivatepictures.netlify.app/join.b2cb980c81224a9bfbc5.css?b2cb980c81224a9bfbc5 (from https://seeking-access-myprivatepictures.netlify.app/)
+19:20:42	Error: 	"Not Found" (404) at link https://seeking-access-myprivatepictures.netlify.app/img/warning.png (from https://seeking-access-myprivatepictures.netlify.app/)
+19:20:42	Error: 	"Not Found" (404) at link https://seeking-access-myprivatepictures.netlify.app/login (from https://seeking-access-myprivatepictures.netlify.app/)
+19:20:42	Error: 	"Not Found" (404) at link https://seeking-access-myprivatepictures.netlify.app/join (from https://seeking-access-myprivatepictures.netlify.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 57 seconds : 89 links scanned, 79 files written (7031205 bytes overall) [5172753 bytes received at 29224 bytes/sec], 3238558 bytes transferred using HTTP compression in 37 files, ratio 40%, 2.0 requests per connection
+(6 errors, 1 warnings, 0 messages)

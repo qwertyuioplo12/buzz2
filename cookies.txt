@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sc-static.net	TRUE	/scevent.min.js	FALSE	1999999999	X-AB	58715f46b4f141b39d96c2611de4b37b
+sc-static.net	TRUE	/	FALSE	1999999999	SameSite	None
+.rflxm.io	TRUE	/	FALSE	1999999999	__cf_bm	T.w9ddUD9dsfsHLR8Os7RLV2CRKWj5V.ws8KZQHnhL0-1741088701-1.0.1.1-sXYyWwPCb4LLXX7bQ2kq5T21mwB9nNLTvK91BuAaoamS2KoatqHw127YXAH7juvICk4LJf5_Gtgj9TTNyQHfmaBpjb0YFPjLt2yAdGKqU6E
+vysion-assets.rflxm.io	TRUE	/	FALSE	1999999999	SameSite	None
+

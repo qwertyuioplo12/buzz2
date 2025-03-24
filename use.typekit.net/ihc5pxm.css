@@ -1,0 +1,87 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * indivisible:
+ *   - http://typekit.com/eulas/00000000000000007735eebc
+ *   - http://typekit.com/eulas/00000000000000007735eeb7
+ *   - http://typekit.com/eulas/00000000000000007735eebb
+ *   - http://typekit.com/eulas/00000000000000007735eebd
+ *   - http://typekit.com/eulas/00000000000000007735eeb6
+ *   - http://typekit.com/eulas/00000000000000007735eec2
+ * ivypresto-headline:
+ *   - http://typekit.com/eulas/00000000000000007735e5a9
+ *   - http://typekit.com/eulas/00000000000000007735e5a2
+ *   - http://typekit.com/eulas/00000000000000007735e5ad
+ *   - http://typekit.com/eulas/00000000000000007735e5a3
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-01-14 02:17:15 UTC"}*/
+
+@import url("../p.typekit.net/pad42.css?s=1&amp;k=ihc5pxm&amp;ht=tk&amp;f=45416.45417.45418.45419.48825.48826.48827.48828.48829.48830&amp;a=84260247&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"ivypresto-headline";
+src:url("af/3d3aa9/00000000000000007735e5a9/30/lee82?subset_id=2&amp;fvd=i4&amp;v=3") format("woff2"),url("af/3d3aa9/00000000000000007735e5a9/30/dee82?subset_id=2&amp;fvd=i4&amp;v=3") format("woff"),url("af/3d3aa9/00000000000000007735e5a9/30/aee82?subset_id=2&amp;fvd=i4&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ivypresto-headline";
+src:url("af/e456f5/00000000000000007735e5a2/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/e456f5/00000000000000007735e5a2/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/e456f5/00000000000000007735e5a2/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ivypresto-headline";
+src:url("af/1382d4/00000000000000007735e5ad/30/le54d?subset_id=2&amp;fvd=n6&amp;v=3") format("woff2"),url("af/1382d4/00000000000000007735e5ad/30/de54d?subset_id=2&amp;fvd=n6&amp;v=3") format("woff"),url("af/1382d4/00000000000000007735e5ad/30/ae54d?subset_id=2&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ivypresto-headline";
+src:url("af/7d46da/00000000000000007735e5a3/30/l4fe6?subset_id=2&amp;fvd=i6&amp;v=3") format("woff2"),url("af/7d46da/00000000000000007735e5a3/30/d4fe6?subset_id=2&amp;fvd=i6&amp;v=3") format("woff"),url("af/7d46da/00000000000000007735e5a3/30/a4fe6?subset_id=2&amp;fvd=i6&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("af/51a05d/00000000000000007735eebc/30/l7188?subset_id=2&amp;fvd=n5&amp;v=3") format("woff2"),url("af/51a05d/00000000000000007735eebc/30/d7188?subset_id=2&amp;fvd=n5&amp;v=3") format("woff"),url("af/51a05d/00000000000000007735eebc/30/a7188?subset_id=2&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("af/4db0e6/00000000000000007735eeb7/30/l416c?subset_id=2&amp;fvd=i5&amp;v=3") format("woff2"),url("af/4db0e6/00000000000000007735eeb7/30/d416c?subset_id=2&amp;fvd=i5&amp;v=3") format("woff"),url("af/4db0e6/00000000000000007735eeb7/30/a416c?subset_id=2&amp;fvd=i5&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("af/9e7dcb/00000000000000007735eebb/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/9e7dcb/00000000000000007735eebb/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/9e7dcb/00000000000000007735eebb/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("af/2c8795/00000000000000007735eebd/30/lee82?subset_id=2&amp;fvd=i4&amp;v=3") format("woff2"),url("af/2c8795/00000000000000007735eebd/30/dee82?subset_id=2&amp;fvd=i4&amp;v=3") format("woff"),url("af/2c8795/00000000000000007735eebd/30/aee82?subset_id=2&amp;fvd=i4&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("af/92f8dc/00000000000000007735eeb6/30/le54d?subset_id=2&amp;fvd=n6&amp;v=3") format("woff2"),url("af/92f8dc/00000000000000007735eeb6/30/de54d?subset_id=2&amp;fvd=n6&amp;v=3") format("woff"),url("af/92f8dc/00000000000000007735eeb6/30/ae54d?subset_id=2&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("af/a71dc5/00000000000000007735eec2/30/l4fe6?subset_id=2&amp;fvd=i6&amp;v=3") format("woff2"),url("af/a71dc5/00000000000000007735eec2/30/d4fe6?subset_id=2&amp;fvd=i6&amp;v=3") format("woff"),url("af/a71dc5/00000000000000007735eec2/30/a4fe6?subset_id=2&amp;fvd=i6&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+.tk-ivypresto-headline { font-family: "ivypresto-headline",serif; }
+.tk-indivisible { font-family: "indivisible",sans-serif; }
